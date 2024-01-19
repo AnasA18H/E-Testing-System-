@@ -1,0 +1,161 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is not a type of research methodology?
+A) Experimental research
+B) Survey research
+C) Qualitative research
+D) Empirical research
+dabfac4
+C) Qualitative research
+
+
+2efcdeb
+Which of the following is not a step in the research process?
+A) Formulating a research question
+B) Collecting data
+C) Interpreting results
+D) Developing a hypothesis
+dabfac4
+A) Formulating a research question
+
+
+2efcdec
+Which of the following is a type of sampling technique in research methodology?
+A) Convenience sampling
+B) Experimental sampling
+C) Hypothesis sampling
+D) Cluster sampling
+dabfac4
+C) Hypothesis sampling
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is not a type of research design?
+A) Descriptive research design
+B) Correlational research design
+C) Experimental research design
+D) Inferential research design
+dabfac4
+C) Experimental research design
+
+2efcdee
+Which of the following is a type of data collection method in research methodology?
+A) Content analysis
+B) Hypothesis testing
+C) Meta-analysis
+D) Statistical modeling
+dabfac4
+A) Content analysis
+
+2efcdef
+Which of the following is a type of research bias?
+A) Sampling bias
+B) Experimental bias
+C) Correlational bias
+D) Hypothesis bias
+dabfac4
+D) Hypothesis bias
+
+2efcdeg
+Which of the following is not a type of data analysis method in research methodology?
+A) Regression analysis
+B) Content analysis
+C) Factor analysis
+D) Correlation analysis
+dabfac4
+B) Content analysis
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What is research methodology and why is it important?
+
+
+88f7acb
+What are the different types of research designs and when are they used?
+
+88f7acc
+Explain the purpose and process of sampling in research methodology.
+
+a5380ee
+general Question
+
+88f7acd
+What are the different types of data collection methods and when are they used?
+
+88f7ace
+What are the different types of data analysis methods and when are they used?
+
+88f7acf
+Discuss some common sources of bias in research and how they can be minimized.
+
+88f7acg
+How can research methodology be used to contribute to the development of new knowledge and understanding in a field?
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+The research process begins with developing a hypothesis.
+True
+False
+dabfac4
+1
+
+b94d27b
+Qualitative research methods are used to gather numerical data.
+True
+False
+dabfac4
+1
+
+
+b94d27c
+The purpose of sampling is to select a representative group of individuals from a larger population.
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+A research design outlines the plan for conducting a research study.
+True
+False
+dabfac4
+1
+
+b94d27e
+Data analysis involves organizing, summarizing, and interpreting collected data.
+True
+False
+dabfac4
+1
+
+b94d27f
+Research bias refers to the tendency to favor certain outcomes or results.
+True
+False
+dabfac4
+1
+
+b94d27g
+Research methodology can be used to test hypotheses, develop theories, and gather empirical evidence.
+True
+False
+dabfac4
+1
+
+
+
+stop

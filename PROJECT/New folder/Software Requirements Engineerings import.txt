@@ -1,0 +1,160 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is not a requirement type in software requirement engineering?
+a) Functional requirement
+b) Non-functional requirement
+c) System requirement
+d) Performance requirement
+dabfac4
+d) Performance requirement
+
+
+2efcdeb
+Which of the following is not a requirement gathering technique?
+a) Interviews
+b) Surveys
+c) Use cases
+d) Code review
+dabfac4
+a) Interviews
+
+
+2efcdec
+Which of the following is not a characteristic of a good requirement?
+a) Complete
+b) Consistent
+c) Vague
+d) Testable
+dabfac4
+b) Consistent
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is not a requirement validation technique?
+a) Peer reviews
+b) Prototyping
+c) Walkthroughs
+d) Unit testing
+dabfac4
+a) Peer reviews
+
+2efcdee
+Which of the following is not a requirement management activity?
+a) Requirements analysis
+b) Requirements traceability
+c) Requirements prioritization
+d) Requirements coding
+dabfac4
+c) Requirements prioritization
+
+2efcdef
+Which of the following is not a requirement specification format?
+a) Natural language
+b) Structured language
+c) Formal language
+d) Pictorial language
+dabfac4
+b) Structured language
+
+2efcdeg
+Which of the following is not a requirement change management activity?
+a) Change tracking
+b) Change control
+c) Change approval
+d) Change avoidance
+dabfac4
+d) Change avoidance
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What is software requirement engineering? Describe the steps involved in software requirement engineering process.
+
+88f7acb
+What is requirement gathering? Describe the common techniques used in requirement gathering.
+
+88f7acc
+What are the characteristics of a good requirement? Explain each characteristic with an example.
+
+a5380ee
+general Question
+
+88f7acd
+What is requirement management? Describe the common activities involved in requirement management.
+
+88f7ace
+Explain the difference between an if statement and a switch statement in programming.
+
+88f7acf
+What is requirement specification? Describe the common formats used in requirement specification.
+
+88f7acg
+What is requirement change management? Describe the common activities involved in requirement change management.
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+Requirements gathering is the process of eliciting and documenting software requirements.
+True
+False
+dabfac4
+
+1
+b94d27b
+Functional requirements describe the functionality that the software should provide
+True
+False
+dabfac4
+1
+
+
+b94d27c
+Non-functional requirements are not important in software development. 
+True
+False
+dabfac4
+0
+
+a5380ee
+Advance
+
+b94d27d
+Requirements analysis involves evaluating the requirements for feasibility and clarity.
+True
+False
+dabfac4
+1
+
+b94d27e
+Requirements traceability ensures that all requirements are linked to project objectives. 
+True
+False
+dabfac4
+1
+
+b94d27f
+Requirements prioritization is not necessary in software development. 
+True
+False
+dabfac4
+0
+
+b94d27g
+Requirements change management involves controlling and documenting changes to requirements.
+True
+False
+dabfac4
+1
+
+
+
+stop

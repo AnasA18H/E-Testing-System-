@@ -1,0 +1,159 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+What is a computer?
+a) A machine that performs calculations and logical operations
+b) A device that records and stores information
+c) A tool for communication and entertainment
+d) All of the above
+dabfac4
+a) A machine that performs calculations and logical operations
+
+
+2efcdeb
+Which of the following is not an input device?
+a) Keyboard
+b) Mouse
+c) Printer
+d) Scanner
+dabfac4
+c) Printer
+
+
+2efcdec
+Which of the following is not a programming language?
+a) Java
+b) C++
+c) Excel
+d) Python
+dabfac4
+c) Excel
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is not a type of computer memory?
+a) RAM
+b) ROM
+c) HDD
+d) Cache
+dabfac4
+c) HDD
+
+2efcdee
+What is an operating system?
+a) A type of software that manages computer hardware and software resources
+b) A device for inputting and outputting data
+c) A type of computer network
+d) A programming language
+dabfac4
+a) A type of software that manages computer hardware and software resources
+
+2efcdef
+What is a computer virus?
+a) A type of software that harms computer systems
+b) A type of computer network
+c) A programming language
+d) An input device for computers
+dabfac4
+a) A type of software that harms computer systems
+
+2efcdeg
+Which of the following is a loop statement in Python?
+a) if
+b) for
+c) switch
+d) break
+dabfac4
+b) for
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What is computing? Describe the main components of a computer system.
+
+88f7acb
+What is programming? Describe the difference between a compiled and an interpreted programming language.
+
+88f7acc
+What is computer memory? Describe the difference between volatile and non-volatile memory
+
+a5380ee
+general Question
+
+88f7acd
+What is a computer network? Describe the advantages and disadvantages of using a computer network.
+
+88f7ace
+What is an operating system? Describe the functions of an operating system.
+
+88f7acf
+What is computer security? Describe the common types of computer security threats.
+
+88f7acg
+What is the future of computing? Describe the emerging technologies in computing and their potential impact.
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+A computer is a machine that performs calculations and logical operations. 
+True
+False
+dabfac4
+1
+
+b94d27b
+A mouse is an output device. 
+True
+False
+dabfac4
+0
+
+b94d27c
+Python is a programming language.
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+HDD is a type of computer memory. 
+True
+False
+dabfac4
+0
+
+b94d27e
+A computer network is a collection of interconnected computers. 
+True
+False
+dabfac4
+1
+
+b94d27f
+An operating system manages computer hardware and software resources. 
+True
+False
+dabfac4
+1
+
+b94d27g
+A computer virus is a type of hardware.
+True
+False
+dabfac4
+0
+
+
+
+stop

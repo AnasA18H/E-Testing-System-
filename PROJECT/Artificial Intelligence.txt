@@ -1,0 +1,159 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is not a common type of machine learning algorithm?
+a) Supervised learning
+b) Unsupervised learning
+c) Reinforcement learning
+d) Rule-based learning
+dabfac4
+c) Reinforcement learning
+
+2efcdeb
+Which of the following is a common evaluation metric for binary classification models?
+a) Mean absolute error
+b) Mean squared error
+c) F1 score
+d) R-squared
+dabfac4
+d) R-squared
+
+
+2efcdec
+Which of the following is an example of a deep learning algorithm?
+a) Linear regression
+b) Decision tree
+c) Convolutional neural network
+d) Support vector machine
+dabfac4
+a) Linear regression
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is a popular technique for reducing the dimensionality of a dataset?
+a) Principal component analysis
+b) K-means clustering
+c) Random forest
+d) Gradient boosting
+dabfac4
+c) Random forest
+
+2efcdee
+Which of the following is a common natural language processing task?
+a) Image classification
+b) Object detection
+c) Sentiment analysis
+d) Reinforcement learning
+dabfac4
+a) Image classification
+
+2efcdef
+Which of the following is not a popular framework for developing AI applications?
+a) TensorFlow
+b) PyTorch
+c) Django
+d) Keras
+dabfac4
+d) Keras
+
+2efcdeg
+Which of the following is a common optimization algorithm used in neural network training?
+a) Gradient descent
+b) Naive Bayes
+c) Decision tree
+d) K-nearest neighbors
+dabfac4
+d) K-nearest neighbors
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+Explain the difference between supervised and unsupervised learning. Give an example of each.
+
+88f7acb
+Discuss the strengths and weaknesses of artificial neural networks as a machine learning technique.
+
+88f7acc
+What is the role of feature engineering in machine learning? Provide an example.
+
+a5380ee
+general Question
+
+88f7acd
+How can you determine whether a model is overfitting or underfitting the training data?
+
+88f7ace
+Describe the basic architecture of a convolutional neural network.
+
+88f7acf
+What is reinforcement learning? Provide an example of a real-world application of reinforcement learning.
+
+88f7acg
+What are the ethical considerations that need to be taken into account when developing AI applications?
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+Unsupervised learning requires labeled data for model training. 
+True
+False
+dabfac4
+0
+
+b94d27b
+Artificial intelligence is a branch of computer science that focuses on developing machines that can perform tasks that typically require human intelligence. 
+True
+False
+dabfac4
+1
+
+b94d27c
+Support vector machines are a type of unsupervised learning algorithm. (False)
+Artificial neural networks are inspired by the structure and function of the human brain.
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+Gradient boosting is a type of reinforcement learning algorithm.
+True
+False
+dabfac4
+0
+
+b94d27e
+Deep learning algorithms can be trained on massive datasets using distributed computing.
+True
+False
+dabfac4
+1
+
+b94d27f
+Natural language processing is a subfield of artificial intelligence that focuses on analyzing and generating human language. 
+True
+False
+dabfac4
+1
+
+b94d27g
+Artificial neural networks are inspired by the structure and function of the human brain.
+True
+False
+dabfac4
+1
+
+
+
+stop

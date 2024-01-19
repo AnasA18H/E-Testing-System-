@@ -1,0 +1,160 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is not a common data structure?
+a) Stack
+b) Queue
+c) List
+d) Loop
+dabfac4
+d) Loop
+
+
+2efcdeb
+Which of the following is a common data structure used for searching?
+a) Stack
+b) Queue
+c) Tree
+d) Graph
+dabfac4
+a) Stack
+
+
+2efcdec
+Which of the following data structures stores data in a last-in-first-out (LIFO) order?
+a) Queue
+b) Tree
+c) Graph
+d) Stack
+dabfac4
+c) Graph
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following data structures is a hierarchical structure?
+a) Stack
+b) Queue
+c) Tree
+d) Graph
+dabfac4
+c) Tree
+
+2efcdee
+Which of the following data structures is a collection of elements with no particular order?
+a) Stack
+b) Queue
+c) List
+d) Tree
+dabfac4
+c) List
+
+2efcdef
+Which of the following data structures can be implemented using arrays or linked lists?
+a) Stack
+b) Queue
+c) List
+d) Tree
+dabfac4
+d) Tree
+
+2efcdeg
+Which of the following data structures is used for efficient searching, insertion, and deletion operations?
+a) Stack
+b) Queue
+c) Hash table
+d) Graph
+dabfac4
+c) Hash table
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+Explain the difference between a stack and a queue. Provide an example of a real-world application for each.
+
+
+88f7acb
+What is a binary tree? Describe the traversal methods for binary trees.
+
+88f7acc
+What is a linked list? Compare linked lists with arrays in terms of their implementation and usage.
+
+a5380ee
+general Question
+
+88f7acd
+What is a hash table? Describe the process of hashing and collision resolution.
+
+88f7ace
+What is a graph? Explain the difference between directed and undirected graphs. Provide an example of a real-world application for graphs.
+
+88f7acf
+What are the common operations that can be performed on a list? Provide an example of a real-world application for lists.
+
+88f7acg
+What are the advantages and disadvantages of using arrays as a data structure? How do arrays compare with linked lists and dynamic arrays?
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+A stack is a data structure that follows the first-in-first-out (FIFO) order.
+True
+False
+dabfac4
+0
+
+b94d27b
+A tree is a data structure that consists of nodes connected by edges.
+True
+False
+dabfac4
+1
+
+b94d27c
+A linked list is a type of array-based data structure
+True
+False
+dabfac4
+0
+
+a5380ee
+Advance
+
+b94d27d
+A queue is a data structure that stores data in a last-in-first-out (LIFO) order. 
+True
+False
+dabfac4
+0
+
+b94d27e
+A hash table is a data structure that provides constant-time access to elements.
+True
+False
+dabfac4
+1
+
+b94d27f
+A graph is a data structure that can be directed or undirected.
+True
+False
+dabfac4
+1
+
+b94d27g
+A list is a data structure that can only store homogeneous data types.
+True
+False
+dabfac4
+0
+
+
+
+stop

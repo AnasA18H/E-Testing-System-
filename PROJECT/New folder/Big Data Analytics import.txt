@@ -1,0 +1,160 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+What is the main characteristic of big data?
+a) Large volume
+b) High velocity
+c) Wide variety
+d) All of the above
+dabfac4
+a) Large volume
+
+
+2efcdeb
+Which of the following is not a common type of big data storage system?
+a) Relational databases
+b) NoSQL databases
+c) Hadoop Distributed File System
+d) Apache Spark
+dabfac4
+c) Hadoop Distributed File System
+
+
+2efcdec
+Which of the following is a common big data processing framework?
+a) TensorFlow
+b) Apache Kafka
+c) Apache Storm
+d) Keras
+dabfac4
+d) Keras
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is a common tool for data cleaning and preprocessing?
+a) Python Pandas
+b) Apache Hadoop
+c) Apache Spark
+d) R language
+dabfac4
+c) Apache Spark
+
+2efcdee
+Which of the following is a common data visualization tool?
+a) Apache Hadoop
+b) Apache Storm
+c) Tableau
+d) Apache Spark
+dabfac4
+a) Apache Hadoop
+
+2efcdef
+Which of the following is a common big data application?
+a) Social media analytics
+b) Image recognition
+c) Video editing
+d) Text editing
+dabfac4
+c) Video editing
+
+2efcdeg
+Which of the following is not a common challenge associated with big data processing?
+a) Data privacy and security
+b) Scalability
+c) Data quality
+d) Low processing power
+dabfac4
+a) Data privacy and security
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What are the main differences between traditional data processing systems and big data processing systems?
+
+88f7acb
+What are the advantages and disadvantages of using Hadoop for big data storage and processing?
+
+88f7acc
+Explain the concept of data partitioning in big data processing. Provide an example.
+
+a5380ee
+general Question
+
+88f7acd
+What are the common methods for data cleaning and preprocessing in big data processing?
+
+88f7ace
+Describe the process of data visualization in big data analysis. What are the benefits of data visualization?
+
+88f7acf
+What are the ethical considerations that need to be taken into account when processing big data?
+
+88f7acg
+How can big data be used to improve business decision-making? Provide an example.
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+Big data refers to datasets that are too large to be processed by traditional data processing systems
+True
+False
+dabfac4
+1
+
+b94d27b
+Hadoop is a popular big data storage and processing framework. 
+True
+False
+dabfac4
+1
+
+
+b94d27c
+Data cleaning and preprocessing are not necessary for big data processing. 
+True
+False
+dabfac4
+0
+
+a5380ee
+Advance
+
+b94d27d
+Big data processing requires specialized hardware and software. 
+True
+False
+dabfac4
+1
+
+b94d27e
+Data visualization is not important in big data analysis..
+True
+False
+dabfac4
+0
+
+b94d27f
+Big data applications are mostly limited to scientific research
+True
+False
+dabfac4
+0
+
+b94d27g
+One of the main challenges of big data processing is the difficulty of integrating data from different sources.
+True
+False
+dabfac4
+1
+
+
+
+stop

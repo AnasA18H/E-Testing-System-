@@ -1,0 +1,160 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is not a standard algorithm analysis method?
+a) Time complexity analysis
+b) Space complexity analysis
+c) Worst-case analysis
+d) Best-case analysis
+dabfac4
+b) Space complexity analysis
+
+
+2efcdeb
+Which of the following algorithms has the best time complexity for sorting a list of n items?
+a) Bubble sort
+b) Insertion sort
+c) Merge sort
+d) Quick sorte
+dabfac4
+b) Insertion sort
+
+
+2efcdec
+What is the time complexity of linear search?
+a) O(1)
+b) O(n)
+c) O(log n)
+d) O(n^2)
+dabfac4
+c) O(log n)
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is not a common notation used for algorithm analysis?
+a) Big O notation
+b) Theta notation
+c) Omega notation
+d) Gamma notation
+dabfac4
+a) Big O notation
+
+2efcdee
+Which of the following is an example of a divide and conquer algorithm?
+a) Binary search
+b) Bubble sort
+c) Insertion sort
+d) Selection sort
+dabfac4
+d) Selection sort
+
+2efcdef
+Which of the following is a common approach to analyzing the time complexity of an algorithm?
+a) Counting the number of arithmetic operations
+b) Counting the number of comparisons
+c) Counting the number of loops
+d) counting the number of int
+dabfac4
+c) Counting the number of loops
+
+2efcdeg
+Which of the following algorithms has a worst-case time complexity of O(n^2)?
+a) Bubble sort
+b) Heap sort
+c) Merge sort
+d) Quick sort
+dabfac4
+a) Bubble sort
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+Explain the concept of time complexity in algorithm analysis.
+
+88f7acb
+What is the difference between Big O notation and Omega notation? Give an example.
+
+88f7acc
+Discuss the pros and cons of using recursion in algorithm design.
+
+a5380ee
+general Question
+
+88f7acd
+How can the space complexity of an algorithm be determined?
+
+88f7ace
+Compare and contrast the time complexity of insertion sort and quick sort.
+
+88f7acf
+What is the difference between a brute force algorithm and a heuristic algorithm?
+
+88f7acg
+How can the efficiency of an algorithm be improved through algorithm design?
+
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+The time complexity of an algorithm is always the same for all inputs.
+True
+False
+dabfac4
+0
+
+b94d27b
+The space complexity of an algorithm can be greater than its time complexity. 
+True
+False
+dabfac4
+1
+
+b94d27c
+Big O notation gives an upper bound on the time complexity of an algorithm. 
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+An algorithm that has a time complexity of O(n) is faster than one that has a time complexity of O(log n)
+True
+False
+dabfac4
+0
+
+b94d27e
+Binary search is an example of a greedy algorithm. 
+True
+False
+dabfac4
+0
+
+b94d27f
+Dynamic programming is a technique that can be used to optimize the time complexity of an algorithm.
+True
+False
+dabfac4
+1
+
+b94d27g
+The worst-case time complexity of an algorithm is always equal to its average-case time complexity.
+True
+False
+dabfac4
+0
+
+
+
+stop

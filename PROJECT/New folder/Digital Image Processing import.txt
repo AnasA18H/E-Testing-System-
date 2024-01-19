@@ -1,0 +1,162 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is not a common image file format?
+a) JPEG
+b) PNG
+c) PDF
+d) GIF
+dabfac4
+b) PNG
+
+
+2efcdeb
+Which of the following is not a common image processing task?
+a) Image segmentation
+b) Image compression
+c) Image recognition
+d) Image encryption
+dabfac4
+a) Image segmentation
+
+
+2efcdec
+Which of the following is not a common edge detection algorithm?
+a) Sobel
+b) Canny
+c) Laplacian
+d) Haar
+dabfac4
+d) Haar
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is not a common image enhancement technique?
+a) Contrast stretching
+b) Histogram equalization
+c) Gaussian filtering
+d) K-Means clustering
+dabfac4
+b) Histogram equalization
+
+2efcdee
+Which of the following is not a common color space used in image processing?
+a) RGB
+b) HSV
+c) CMYK
+d) HSI
+dabfac4
+c) CMYK
+
+2efcdef
+Which of the following is not a common morphological operation used in image processing?
+a) Erosion
+b) Dilation
+c) Rotation
+d) Opening
+dabfac4
+b) Dilation
+
+2efcdeg
+Which of the following is not a common application of image processing?
+a) Object recognition
+b) Medical imaging
+c) Robotics
+d) Natural Language Processing
+dabfac4
+a) Object recognition
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What is image processing? Describe the steps involved in image processing.
+
+
+88f7acb
+What is image segmentation? Describe a common technique used for image segmentation.
+
+88f7acc
+What is an edge detection algorithm? Describe the difference between the Sobel and Canny edge detection algorithms.
+
+a5380ee
+general Question
+
+88f7acd
+What is histogram equalization? Describe how it is used to improve the contrast of an image.
+
+
+88f7ace
+What is a color space? Describe the difference between RGB and HSV color spaces.
+
+
+88f7acf
+What are morphological operations? Describe a common application of morphological operations in image processing.
+
+88f7acg
+What are some real-world applications of image processing? Provide an example of how image processing is used in a specific industry or field.
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+Image processing is the analysis and manipulation of digital images.
+True
+False
+dabfac4
+1
+
+b94d27b
+Image segmentation is the process of dividing an image into multiple regions or objects.
+True
+False
+dabfac4
+1
+
+
+b94d27c
+The Canny edge detection algorithm uses a multi-stage algorithm to detect edges.
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+Histogram equalization is a technique used to improve the contrast of an image. 
+True
+False
+dabfac4
+1
+
+b94d27e
+The RGB color space represents colors using a combination of red, green, and blue. 
+True
+False
+dabfac4
+1
+
+b94d27f
+Morphological operations are used to manipulate the shape and structure of objects in an image.
+True
+False
+dabfac4
+1
+
+b94d27g
+Image processing is not used in the field of computer vision.
+True
+False
+dabfac4
+0
+
+
+
+stop

@@ -1,0 +1,162 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is not a fundamental concept of Object-Oriented Programming?
+A) Inheritance
+B) Polymorphism
+C) Abstraction
+D) Procedural Programming
+dabfac4
+D) Procedural Programming
+
+
+2efcdeb
+Which of the following is a feature of encapsulation in Object-Oriented Programming?
+A) It allows objects to interact with one another.
+B) It hides the internal details of an object from other objects.
+C) It allows multiple objects to share the same functionality.
+D) It defines the relationship between objects.
+dabfac4
+B) It hides the internal details of an object from other objects.
+
+
+2efcdec
+Which of the following best describes polymorphism in Object-Oriented Programming?
+A) The ability of objects to inherit properties and behavior from other objects.
+B) The ability of objects to take on different forms or have multiple meanings.
+C) The ability of objects to interact with one another.
+D) The ability of objects to hide their internal details from other objects.
+dabfac4
+A) The ability of objects to inherit properties and behavior from other objects.
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is a characteristic of inheritance in Object-Oriented Programming?
+A) It allows objects to interact with one another.
+B) It defines the relationship between objects.
+C) It allows multiple objects to share the same functionality.
+D) It hides the internal details of an object from other objects.
+dabfac4
+D) It hides the internal details of an object from other objects.
+
+2efcdee
+Which of the following is a disadvantage of using inheritance in Object-Oriented Programming?
+A) It can lead to code duplication and increased complexity.
+B) It can make the code difficult to read and understand.
+C) It can make it harder to maintain and update the code.
+D) It can limit the flexibility and adaptability of the code.
+dabfac4
+B) It can make the code difficult to read and understand.
+
+2efcdef
+Which of the following is a way to achieve abstraction in Object-Oriented Programming?
+A) Using interfaces and abstract classes.
+B) Using access modifiers to hide the internal details of an object.
+C) Using encapsulation to limit access to an object's properties and methods.
+D) Using polymorphism to allow objects to take on different forms.
+dabfac4
+A) Using interfaces and abstract classes.
+
+2efcdeg
+Which of the following is an advantage of using Object-Oriented Programming?
+A) It allows for more efficient memory usage.
+B) It can make the code more reusable and modular.
+C) It can make the code more difficult to read and understand.
+D) It can make it harder to maintain and update the code.
+dabfac4
+D) It can make it harder to maintain and update the code.
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What is the difference between procedural programming and object-oriented programming?
+
+
+88f7acb
+Explain the concept of inheritance in object-oriented programming with an example.
+
+88f7acc
+What is a data structure? Explain with an example.
+
+a5380ee
+general Question
+
+88f7acd
+Explain the concept of encapsulation and how it is used in Object-Oriented Programming.
+
+88f7ace
+What is inheritance in Object-Oriented Programming and how is it implemented?
+
+88f7acf
+What is abstraction in Object-Oriented Programming and why is it important?
+
+88f7acg
+Explain the difference between an abstract class and an interface in Object-Oriented Programming.
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+
+b94d27a
+Inheritance is a mechanism that allows a new class to be based on an existing class.
+True
+False
+dabfac4
+1
+
+b94d27b
+JavaScript is a server-side scripting language.
+True
+False
+dabfac4
+1
+
+
+b94d27c
+Encapsulation is the process of hiding the internal details of an object from other objects.
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+Polymorphism allows objects to take on different forms or have multiple meanings.
+True
+False
+dabfac4
+1
+
+b94d27e
+Abstraction is the process of defining the relationship between objects.
+True
+False
+dabfac4
+1
+
+b94d27f
+Object-Oriented Programming can make code more reusable and modular.
+True
+False
+dabfac4
+1
+
+b94d27g
+Inheritance can lead to code duplication and increased complexity.
+True
+False
+dabfac4
+1
+
+
+
+stop

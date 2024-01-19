@@ -1,0 +1,7 @@
+﻿  PROJECT.cpp
+D:\UNIVERSITY\OPPs\PROJECT\PROJECT\PROJECT\PROJECT.cpp(615,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UNIVERSITY\OPPs\PROJECT\PROJECT\PROJECT\PROJECT.cpp(968,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UNIVERSITY\OPPs\PROJECT\PROJECT\PROJECT\PROJECT.cpp(1144,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UNIVERSITY\OPPs\PROJECT\PROJECT\PROJECT\PROJECT.cpp(1820): warning C4715: 'USERNUMBER': not all control paths return a value
+D:\UNIVERSITY\OPPs\PROJECT\PROJECT\PROJECT\PROJECT.cpp(1312): warning C4715: 'attemptquiz::DisplayQuiz': not all control paths return a value
+  PROJECT.vcxproj -> D:\UNIVERSITY\OPPs\PROJECT\PROJECT\x64\Debug\PROJECT.exe

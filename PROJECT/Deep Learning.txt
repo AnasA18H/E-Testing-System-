@@ -1,0 +1,161 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+What is a common activation function used in deep learning?
+a) Sigmoid
+b) Linear
+c) Exponential
+d) Quadratic
+dabfac4
+c) Exponential
+
+
+2efcdeb
+What is a common loss function used in deep learning?
+a) Mean Absolute Error (MAE)
+b) Mean Squared Error (MSE)
+c) Root Mean Squared Error (RMSE)
+d) All of the above
+dabfac4
+c) Root Mean Squared Error (RMSE)
+
+
+2efcdec
+Which of the following is not a common deep learning architecture?
+a) Convolutional Neural Network (CNN)
+b) Recurrent Neural Network (RNN)
+c) Autoencoder
+d) Decision Tree
+dabfac4
+a) Convolutional Neural Network (CNN)
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is not a common regularization technique used in deep learning?
+a) Dropout
+b) L1 Regularization
+c) L2 Regularization
+d) K-Means
+dabfac4
+d) K-Means
+
+2efcdee
+Which of the following is not a common optimization algorithm used in deep learning?
+a) Stochastic Gradient Descent (SGD)
+b) Adam
+c) Levenberg-Marquardt
+d) Gradient Boosting
+dabfac4
+a) Stochastic Gradient Descent (SGD)
+
+2efcdef
+Which of the following is a common deep learning framework?
+a) Apache Hadoop
+b) Apache Spark
+c) TensorFlow
+d) Keras
+dabfac4
+c) TensorFlow
+
+2efcdeg
+Which of the following is a common application of deep learning?
+a) Natural Language Processing (NLP)
+b) Image Recognition
+c) Speech Recognition
+d) All of the above
+dabfac4
+a) Natural Language Processing (NLP)
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What is the difference between procedural programming and object-oriented programming?
+
+
+88f7acb
+Explain the concept of inheritance in object-oriented programming with an example.
+
+88f7acc
+What is a data structure? Explain with an example.
+
+a5380ee
+general Question
+
+88f7acd
+What is a pointer in C++? How is it useful?
+
+88f7ace
+Explain the difference between an if statement and a switch statement in programming.
+
+88f7acf
+What is a variable scope in programming? Explain with an example.
+
+88f7acg
+Explain the difference between a for loop and a while loop in programming.
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+Deep learning is a type of machine learning that uses artificial neural networks. 
+True
+False
+dabfac4
+1
+
+b94d27b
+A convolutional neural network (CNN) is a type of neural network commonly used for image recognition. .
+True
+False
+dabfac4
+1
+
+
+b94d27c
+A recurrent neural network (RNN) is a type of neural network commonly used for natural language processing. 
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+A loss function measures the error between the predicted output and the actual output.
+True
+False
+dabfac4
+1
+
+b94d27e
+Regularization is a technique used to prevent overfitting in deep learning.
+True
+False
+dabfac4
+1
+
+b94d27f
+The activation function determines the output of a neural network.
+True
+False
+dabfac4
+1
+
+b94d27g
+Optimization algorithms are used to update the weights and biases of a neural network during training.
+True
+False
+dabfac4
+1
+
+
+
+stop

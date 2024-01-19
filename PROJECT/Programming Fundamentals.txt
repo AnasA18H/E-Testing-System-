@@ -1,0 +1,161 @@
+a5380ee
+General questions
+
+
+
+2efcdea
+Which of the following is a variable declaration in Python?
+a) int x = 5
+b) x = 5
+c) float x = 5.0
+d) None of the above
+dabfac4
+c) float x = 5.0
+
+
+2efcdeb
+Which of the following is a high-level programming language?
+a) Assembly language
+b) C language
+c) Machine language
+d) None of the above
+dabfac4
+b) C language
+
+
+2efcdec
+What is the output of the following code snippet in Python?x = 10,y = 5;print(x % y)
+a) 2
+b) 0
+c) 5
+d) 1
+dabfac4
+b) 0
+
+a5380ee
+Programing Questions
+
+2efcded
+Which of the following is a data structure in C++?
+a) Class
+b) Object
+c) Array
+d) All of the above
+dabfac4
+a) Class
+
+2efcdee
+Which of the following is a conditional statement in JavaScript?
+a) while
+b) if
+c) for
+d) switch
+dabfac4
+b) if
+
+2efcdef
+Which of the following operators is used to access the member variables and functions of an object in C++?
+a) * (asterisk)
+b) -> (arrow)
+c) . (dot)
+d) :: (scope resolution)
+dabfac4
+c) . (dot)
+
+2efcdeg
+Which of the following is a loop statement in Python?
+a) if
+b) for
+c) switch
+d) break
+dabfac4
+c) switch
+
+a5380ee
+Coceptual Questions
+
+88f7aca
+What is the difference between procedural programming and object-oriented programming?
+
+
+88f7acb
+Explain the concept of inheritance in object-oriented programming with an example.
+
+88f7acc
+What is a data structure? Explain with an example.
+
+a5380ee
+general Question
+
+88f7acd
+What is a pointer in C++? How is it useful?
+
+88f7ace
+Explain the difference between an if statement and a switch statement in programming.
+
+88f7acf
+What is a variable scope in programming? Explain with an example.
+
+88f7acg
+Explain the difference between a for loop and a while loop in programming.
+
+
+a5380ee
+Programing fundamentaals undestanding
+
+b94d27a
+The main function is the entry point of a C++ program.
+True
+False
+dabfac4
+1
+
+b94d27b
+JavaScript is a server-side scripting language.
+True
+False
+dabfac4
+1
+
+
+b94d27c
+A function in Python can return multiple values.
+True
+False
+dabfac4
+1
+
+a5380ee
+Advance
+
+b94d27d
+Object-oriented programming is a programming paradigm that emphasizes the use of objects.
+True
+False
+dabfac4
+1
+
+b94d27e
+C is a high-level programming language.
+True
+False
+dabfac4
+1
+
+b94d27f
+PHP is a compiled programming language.
+True
+False
+dabfac4
+1
+
+b94d27g
+In Python, a string is a mutable data type.
+True
+False
+dabfac4
+1
+
+
+
+stop
